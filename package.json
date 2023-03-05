@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "https": "^1.0.0"
+  },
+  "name": "switchbot-meter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:B4kedBr3ad/switchbot-meter.git",
+  "author": "B4kedBr3ad <110211701+B4kedBr3ad@users.noreply.github.com>",
+  "license": "WTFPL"
+}
